@@ -1,0 +1,17 @@
+html {
+    background: #4341a1 !important;
+}
+
+.frame {
+    height: 450px;      /* equals max image height */
+    text-align: center; margin: 1em 0;
+}
+
+.helper {
+    display: inline-block;
+    height: 100%;
+}
+
+img {
+     vertical-align: middle;
+}
